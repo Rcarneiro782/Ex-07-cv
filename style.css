@@ -14,12 +14,23 @@ h1{
 }
 section{
     width: 550px;
-    height: 200px;
+    height: 300px;
     border-radius: 25px;
     background-color: white;
     margin: auto;
     display: flex;
 
+}
+div{
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+#flista{
+    width: 150px;
+    margin-top: 30px;
 }
 footer{
     text-align: center;
